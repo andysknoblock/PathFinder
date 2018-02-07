@@ -6,4 +6,5 @@ An example grid file (.grd) may look like this:
 0,0,0,1   
 1,0,0,0  
 1,0,0,0  
-The application would then be able to read from this file and count the number of paths from the top right to the bottom left.
+The application would then be able to read from this file and count the number of paths from the top right to the bottom left.  
+![PathFinder in terminal](https://github.com/andysknoblock/PathFinder/blob/master/PathFinder.png)
